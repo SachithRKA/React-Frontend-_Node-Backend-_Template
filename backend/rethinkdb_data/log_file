@@ -1,0 +1,37 @@
+2024-05-29T12:50:34.926158005 0.004779s notice: Recursively removing directory /home/sachithrka/Documents/Projects/React_Node_Template/backend/rethinkdb_data/tmp
+2024-05-29T12:50:34.929688749 0.008309s notice: Initializing directory /home/sachithrka/Documents/Projects/React_Node_Template/backend/rethinkdb_data
+2024-05-29T12:50:34.929811871 0.008432s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/home/sachithrka/Documents/Projects/React_Node_Template/backend/rethinkdb_data' did not already exist or is empty.)
+2024-05-29T12:50:34.930266923 0.008887s notice: Running rethinkdb 2.4.4~0jammy (x86_64-linux-gnu) (GCC 11.4.0)...
+2024-05-29T12:50:34.932165320 0.010786s notice: Running on Linux 6.5.0-35-generic x86_64
+2024-05-29T12:50:34.932218305 0.010839s notice: Loading data from directory /home/sachithrka/Documents/Projects/React_Node_Template/backend/rethinkdb_data
+2024-05-29T12:50:34.953457419 0.032078s info: Automatically using cache size of 2982 MB
+2024-05-29T12:50:34.956715059 0.035335s notice: Listening for intracluster connections on port 29015
+2024-05-29T12:50:34.961407235 0.040027s notice: Listening for client driver connections on port 28015
+2024-05-29T12:50:34.961462912 0.040083s notice: Listening for administrative HTTP connections on port 8080
+2024-05-29T12:50:34.961474847 0.040095s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2024-05-29T12:50:34.961480389 0.040100s notice: Listening on driver addresses: 127.0.0.1, ::1
+2024-05-29T12:50:34.961495220 0.040115s notice: Listening on http addresses: 127.0.0.1, ::1
+2024-05-29T12:50:34.961504442 0.040125s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2024-05-29T12:50:34.961512194 0.040132s notice: Server ready, "sachithrka_ThinkPad_T480_uuc" dc518cc6-618a-41d7-9b16-156efc37c575
+2024-05-29T12:52:39.295262254 124.373883s info: Table 4b6fb93e-d10a-4485-956b-7008b60990c5: Starting a new Raft election for term 1.
+2024-05-29T12:52:39.295795457 124.374416s info: Table 4b6fb93e-d10a-4485-956b-7008b60990c5: Added replica on this server.
+2024-05-29T12:52:39.298078959 124.376699s info: Table 4b6fb93e-d10a-4485-956b-7008b60990c5: This server is Raft leader for term 1. Latest log index is 0.
+2024-05-29T23:44:48.953964848 0.069388s notice: Running rethinkdb 2.4.4~0jammy (x86_64-linux-gnu) (GCC 11.4.0)...
+2024-05-29T23:44:48.956642239 0.072065s notice: Running on Linux 6.5.0-35-generic x86_64
+2024-05-29T23:44:48.956700646 0.072123s notice: Loading data from directory /home/sachithrka/Documents/Projects/React_Node_Template/backend/rethinkdb_data
+2024-05-29T23:44:48.998696723 0.114119s info: Automatically using cache size of 4718 MB
+2024-05-29T23:44:49.001055638 0.116478s notice: Listening for intracluster connections on port 29015
+2024-05-29T23:44:49.029009831 0.144432s notice: Listening for client driver connections on port 28015
+2024-05-29T23:44:49.029104278 0.144527s notice: Listening for administrative HTTP connections on port 8080
+2024-05-29T23:44:49.029105031 0.144527s notice: Listening on cluster addresses: 127.0.0.1, ::1
+2024-05-29T23:44:49.029116609 0.144539s notice: Listening on driver addresses: 127.0.0.1, ::1
+2024-05-29T23:44:49.029159757 0.144582s notice: Listening on http addresses: 127.0.0.1, ::1
+2024-05-29T23:44:49.029172333 0.144595s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2024-05-29T23:44:49.029193922 0.144616s notice: Server ready, "sachithrka_ThinkPad_T480_uuc" dc518cc6-618a-41d7-9b16-156efc37c575
+2024-05-29T23:44:50.619590269 1.735013s info: Table 4b6fb93e-d10a-4485-956b-7008b60990c5: Starting a new Raft election for term 2.
+2024-05-29T23:44:50.680363508 1.795786s info: Table 4b6fb93e-d10a-4485-956b-7008b60990c5: This server is Raft leader for term 2. Latest log index is 2.
+2024-05-30T17:26:38.136130536 63709.251554s notice: Server got SIGINT from pid 0, uid 0; shutting down...
+2024-05-30T17:26:38.136483067 63709.251906s notice: Shutting down client connections...
+2024-05-30T17:26:38.137684119 63709.253108s notice: All client connections closed.
+2024-05-30T17:26:38.137726785 63709.253150s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2024-05-30T17:26:38.208417654 63709.323841s notice: Storage engine shut down.
