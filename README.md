@@ -72,7 +72,7 @@ cd React-Frontend-_Node-Backend-_Template
     npm start
     ```
 
-    The backend server will start on `http://localhost:5000`.
+    The backend server will start on `http://localhost:3001`.
 
 ### Running the Frontend
 
